@@ -17,14 +17,78 @@
       "name": "George",
       "email": "george@gmail.com",
       "password": "123"
+    },
+    {
+      "id": 0,
+      "strategyTitle": "f",
+      "decisionDate": "dfd",
+      "ombInitiative": "fd",
+      "useOfSavingsAvoidance": "fdf",
+      "amountType": "fdfd",
+      "id": 4
     }
   ],
   "strategies": [
     {
-      "strategyId": 4,
+      "id": 1,
+      "strategyTitle": "Data Center Infrastructure",
+      "decisionDate": "09/30/2016",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Agency Core Mission",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        ""
+      ],
+      "fy2012": {
+        "amount": 17.032,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 5.913,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 117.762,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 49.36,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 80.426,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 60.938,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 64.1,
+        "netOrGross": "Gross"
+      },
+      "fy2019": {
+        "amount": 102.3,
+        "netOrGross": "Gross"
+      },
+      "fy2020": {
+        "amount": 109.5,
+        "netOrGross": "Gross"
+      },
+      "fy2021": {
+        "amount": 158.5,
+        "netOrGross": "Gross"
+      },
+      "fy2022": {
+        "amount": 28.3,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "id": 4,
       "strategyTitle": "Circuits, Medical Devices, Commodity IT Reform, Wireless Device Mgmt, and other IP Devices",
-      "decisionDate": "09/3/2012",
-      "ombInitiative": "Commodity ",
+      "decisionDate": "09/30/2016",
+      "ombInitiative": "Commodity IT",
       "useOfSavingsAvoidance": "Agency Core Mission",
       "amountType": "Cost-Savings",
       "relatedUIIs": [
@@ -51,7 +115,7 @@
         "netOrGross": "Gross"
       },
       "fy2017": {
-        "amount": 3,
+        "amount": 0,
         "netOrGross": "Gross"
       },
       "fy2018": {
@@ -67,20 +131,16 @@
         "netOrGross": "Gross"
       },
       "fy2021": {
-        "amount": 30,
+        "amount": 65.5,
         "netOrGross": "Gross"
       },
       "fy2022": {
         "amount": 60.9,
         "netOrGross": "Gross"
-      },
-      "fy2023": {
-        "amount": 30,
-        "netOrGross": "Gross"
       }
     },
     {
-      "strategyId": 5,
+      "id": 5,
       "strategyTitle": "Fourth Estate IT Reform, Application Rationalization, and Assisted Acquisition through USA Learning",
       "decisionDate": "09/30/2016",
       "ombInitiative": "PortfolioStat",
@@ -135,12 +195,64 @@
       }
     },
     {
-      "strategyId": 6
+      "id": 6,
+      "strategyTitle": "Enterprise Licensing",
+      "decisionDate": "09/30/2016",
+      "ombInitiative": "Software License Management",
+      "useOfSavingsAvoidance": "Agency Core Mission",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        ""
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 21.1,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 42.3,
+        "netOrGross": "Gross"
+      },
+      "fy2019": {
+        "amount": 63.4,
+        "netOrGross": "Gross"
+      },
+      "fy2020": {
+        "amount": 63.4,
+        "netOrGross": "Gross"
+      },
+      "fy2021": {
+        "amount": 63.4,
+        "netOrGross": "Gross"
+      },
+      "fy2022": {
+        "amount": 64.2,
+        "netOrGross": "Gross"
+      }
     },
     {
-      "strategyId": 7,
+      "id": 7,
       "strategyTitle": "Cloud Savings",
-      "decisionDate": "09/15/2019",
+      "decisionDate": "09/30/2019",
       "ombInitiative": "Data Center",
       "useOfSavingsAvoidance": "Agency Core Mission",
       "amountType": "Cost-Savings",
@@ -161,7 +273,7 @@
       }
     },
     {
-      "strategyId": 8,
+      "id": 8,
       "strategyTitle": "DISA Ecosystem Rate Reduction",
       "decisionDate": "09/30/2018",
       "ombInitiative": "Data Center",
@@ -188,7 +300,7 @@
       }
     },
     {
-      "strategyId": 9,
+      "id": 9,
       "strategyTitle": "IT Budget Savings",
       "decisionDate": "05/01/2022",
       "ombInitiative": "Other",
@@ -213,6 +325,14 @@
         "amount": 7.9,
         "netOrGross": "Gross"
       }
+    },
+    {
+      "id": 10,
+      "strategyTitle": "f",
+      "decisionDate": "f",
+      "ombInitiative": "f",
+      "useOfSavingsAvoidance": "f",
+      "amountType": "f"
     }
   ]
 }
